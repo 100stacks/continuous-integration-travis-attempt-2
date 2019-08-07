@@ -1,7 +1,7 @@
 language: ruby
 cache: bundler # caching to speed up dependency installation
 rvm:
-- testing travis build 
+- 2.4.1
 addons:
   apt:
     packages:
