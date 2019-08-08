@@ -1,4 +1,4 @@
-# WIP
+# GitHub Learning Labs
 
-[Google](http://google.com)
+[Continuous Integration (CI) with TravisCI](https://lab.github.com/githubtraining/continuous-integration-with-travis-ci)
 
